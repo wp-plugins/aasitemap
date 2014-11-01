@@ -31,9 +31,7 @@ Insert anywhere the <strong>[sitemap]</strong> shortcode
 
 
 == Screenshots ==
-<strong>Sitemap Shortcode</strong><br/>
 1. screenshot-1
-<strong>Sitemap Example</strong><br/>
 2. screenshot-2
 
 
