@@ -14,7 +14,7 @@ A simple plugin for include sitemap to your wordpress website.
 == Description ==
 This is a sitemap plugin.
 
-<strong>Plugin Features</strong><br/>
+<strong>Plugin Features</strong>
 
 * Shortcode Enabled
 
@@ -27,7 +27,7 @@ Insert anywhere the <strong>[sitemap]<strong> shortcode
 == Installation ==
 
 1. Install as regular WordPress plugin.<br />
-2. Go your plugin setting via WordPress Dashboard and find "<strong>AA Signin Widget</strong>" activate it.<br />
+2. Go your plugin setting via WordPress Dashboard and find "<strong>AA Sitemap</strong>" activate it.<br />
 
 
 == Screenshots ==
