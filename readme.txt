@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: 1.0
 
-A simple plugin for include sitemap
+A simple plugin for include sitemap to your wordpress website.
 
 == Description ==
 This is a sitemap plugin.
