@@ -20,7 +20,7 @@ This is a sitemap plugin.
 
 More features are coming soon ..
 
-<strong> How to use this plugin</strong><br/>
+<strong> How to use this plugin</strong>
 
 Insert anywhere the <strong>[sitemap]<strong> shortcode
 
