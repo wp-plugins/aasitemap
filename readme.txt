@@ -22,7 +22,7 @@ More features are coming soon ..
 
 <strong> How to use this plugin</strong>
 
-Insert anywhere the <strong>[sitemap]<strong> shortcode
+Insert anywhere the <strong>[sitemap]</strong> shortcode
 
 == Installation ==
 
