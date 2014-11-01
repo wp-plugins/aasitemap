@@ -1,16 +1,17 @@
 <?php
-/*
-	Plugin Name:Sitemap
-	Plugin URI:http://wordpress.org/plugins/sitemap../
-	Author:aaextention / A.Roy
-	Description:This is a sitemap plugin.
-	Tags: sitemap , aaextention , shortcode
-	Author URI:aawp.webdesigncr3ator.com/
-	Version:1.0
-	License:GPLv2 or later
-*/
+/**
+ * Plugin Name: AA Sitemap
+ * Plugin URI: https://wordpress.org/plugins/aasitemap/
+ * Description: A simple plugin for include sitemap to your wordpress website. 
+ * Version: 1.0
+ * Author: A. Roy / A. Mahmud
+ * Author URI: http://webdesigncr3ator.com
+ * Support Email : contact2us.aa@gmail.com
+ * License: GPL2
+ **/
 
-// Develop By Arnob Protim Roy
+
+// Code starts from here
 function sitemap_shortcode(){
 ?>
 	<div >			
