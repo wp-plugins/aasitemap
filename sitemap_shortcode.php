@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/aasitemap/
  * Description: A simple plugin for include sitemap to your wordpress website. 
  * Version: 1.0
- * Author: A. Roy / A. Mahmud
+ * Author: aaextention
  * Author URI: http://webdesigncr3ator.com
  * Support Email : contact2us.aa@gmail.com
  * License: GPL2
