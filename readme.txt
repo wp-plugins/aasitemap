@@ -1,5 +1,5 @@
 === AA Sitemap ===
-Contributors: aaextension
+Contributors: aaextention
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ashik685%40gmail%2ecom&lc=US&item_name=Donate%20AA%20Extension%20%21&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: aaextension,sitemap , shortcode , aaextention
 Requires at least: 3.5
